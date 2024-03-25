@@ -18,7 +18,7 @@
 
 ## 🎯 Descrição
 Olá 👋<br><br>
-Eu sou Matheus Alcantara, estudante de Analise e Desemvolvimento de Sistemas. Gosto de aprender tecnologias novas e aperfeiçoar minhas habilidades.
+Eu sou Matheus Alcantara, estudante de Analise e Desenvolvimento de Sistemas. Gosto de aprender tecnologias novas e aperfeiçoar minhas habilidades.
 
 Minhas áreas de interesse incluem:
 - Desenvolvimento web 🌐
@@ -35,3 +35,14 @@ Comprometido em contribuir para projetos de código aberto e em aprimorar minhas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+-----
+| Cursos | Certificados |
+| ------ | ------------ |
+| Lógica de Programação | [Ver Certificado](https://www.dio.me/certificate/11THNBIU/share)
+| DevOps Fundamentals | [Ver Certificado](https://www.dio.me/certificate/IFEQZEPK/share)
+
+<br>
+
+![Mts4lcantara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mts4lcantara&show_icons=true&theme=dark)
+

@@ -41,6 +41,7 @@ Comprometido em contribuir para projetos de código aberto e em aprimorar minhas
 | ------ | ------------ |
 | Lógica de Programação | [Ver Certificado](https://www.dio.me/certificate/11THNBIU/share)
 | DevOps Fundamentals | [Ver Certificado](https://www.dio.me/certificate/IFEQZEPK/share)
+| Github Certification | [Ver Certificado](https://www.dio.me/certificate/LC0QU9DU/share)
 
 <br>
 
